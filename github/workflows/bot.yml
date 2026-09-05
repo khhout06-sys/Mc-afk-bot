@@ -1,5 +1,0 @@
-const bot = mineflayer.createBot({
-  host: 'Roguecrafted194.mcsh.io', // IP Server របស់អ្នក
-  port: 25565,                     // Port Default របស់ Java Edition
-  username: 'AFK_Bot_GH'           // ឈ្មោះ Bot ក្នុង Game
-});
